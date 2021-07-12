@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "mongoURI" : "mongodb+srv://bubenfuy:BorDor1909@cluster0.pw0y0.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret" : "BYNHBUFYN FOREVER",
+  "baseURL" : "http://localhost:5000"
+}
